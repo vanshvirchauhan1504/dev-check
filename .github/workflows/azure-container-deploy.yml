@@ -36,6 +36,7 @@ jobs:
           cpu: 1
           memory: 1.5
           dns-name-label: myapp-vansh-123
+          location: centralindia
 
 
 
